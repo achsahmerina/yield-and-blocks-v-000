@@ -1,7 +1,9 @@
-def hello_t(yielding)
-  ["Tim", "Tom", "Jim"].each do |name|
-  puts "#{name}"
-end
+def hello_t(array)
+  i = 0
+
+    while i < array.length
+      i = i + 1
+    end
 end
 
 # call your method here!
