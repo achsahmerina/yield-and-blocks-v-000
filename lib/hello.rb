@@ -1,7 +1,5 @@
-def hello_t
+def hello_t(yielding)
 
 end
 
 # call your method here!
-def yielding
-end
