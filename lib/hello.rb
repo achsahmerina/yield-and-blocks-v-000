@@ -1,6 +1,6 @@
 def hello_t(yielding)
   ["Tim", "Tom", "Jim"].each do |name|
-  puts "Hi, #{name}"
+  puts "#{name}"
 end
 end
 
